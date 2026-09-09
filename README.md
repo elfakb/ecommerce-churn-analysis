@@ -43,19 +43,19 @@ Excel dashboard → Agile sprint management → data-driven recommendations.
 ## Dashboard Screenshots
 
 ### Executive Summary
-![Executive Summary](screenshots/01_executive_summary.png)
+![Executive Summary](screenshots/01_executive_summary.jpg)
 
 ### Monthly Dissatisfaction & Late Delivery Trend
-![Monthly Trend](screenshots/02_monthly_trend.png)
+![Monthly Trend](screenshots/02_monthly_trend.jpg)
 
 ### Category Breakdown
-![Category Breakdown](screenshots/03_category_breakdown.png)
+![Category Breakdown](screenshots/03_category_breakdown.jpg)
 
 ### State Breakdown
-![State Breakdown](screenshots/04_state_breakdown.png)
+![State Breakdown](screenshots/04_state_breakdown.jpg)
 
 ### Payment Type Analysis
-![Payment Type](screenshots/05_payment_type.png)
+![Payment Type](screenshots/05_payment_type.jpg)
 
 ---
 
